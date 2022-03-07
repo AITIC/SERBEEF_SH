@@ -1,4 +1,0 @@
-[submodule "AITIC/odoo-aitic-components"]
-	path = AITIC/odoo-aitic-components
-	url = git@github.com:AITIC/odoo-aitic-components.git
-	branch = dev_14.0_to_15.0
