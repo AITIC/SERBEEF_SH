@@ -2,3 +2,8 @@
 	path = AITIC/odoo-aitic-components
 	url = git@github.com:AITIC/odoo-aitic-components.git
 	branch = dev_14.0_to_15.0
+
+[submodule "OCA/stock-logistics-warehouse"]
+	path = OCA/stock-logistics-warehouse
+	url = git@github.com:AITIC/stock-logistics-warehouse.git
+	branch = 15.0
