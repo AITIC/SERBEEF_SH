@@ -12,3 +12,8 @@
 	path = OCA/manufacture
 	url = git@github.com:AITIC/manufacture.git
 	branch = 15.0
+
+[submodule "OTHERS/odoo_pos_addons_pronexo_arg"]
+	path = OTHERS/odoo_pos_addons_pronexo_arg
+	url = git@github.com:AITIC/odoo_pos_addons_pronexo_arg.git
+	branch = 15.0
