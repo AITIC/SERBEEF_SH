@@ -17,3 +17,6 @@
 	path = OTHERS/odoo_pos_addons_pronexo_arg
 	url = git@github.com:AITIC/odoo_pos_addons_pronexo_arg.git
 	branch = 15.0
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = https://github.com/OCA/product-attribute.git
