@@ -20,3 +20,8 @@
 [submodule "OCA/product-attribute"]
 	path = OCA/product-attribute
 	url = https://github.com/OCA/product-attribute.git
+
+[submodule "pronexo-argentina/odoo_pos_addons"]
+	path = pronexo-argentina/odoo_pos_addons
+	url = git@github.com:pronexo-argentina/odoo_pos_addons.git
+	branch = 15.0
