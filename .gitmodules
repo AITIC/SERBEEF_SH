@@ -25,3 +25,8 @@
 	path = pronexo-argentina/odoo_pos_addons
 	url = git@github.com:pronexo-argentina/odoo_pos_addons.git
 	branch = 15.0
+
+[submodule "OCA/stock-logistics-barcode"]
+	path = OCA/stock-logistics-barcode
+	url = git@github.com:AITIC/stock-logistics-barcode.git
+	branch = 15.0
